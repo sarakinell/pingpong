@@ -4,7 +4,6 @@ body {
 }
 
 canvas {
-	width: 500px;
+	width: 1000px;
 	height: 600px;
-	background: blue;
 }
